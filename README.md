@@ -1,7 +1,9 @@
-Hi im a new developper who's eager to learn and improve, for now im learning web developpement 
-my current stack :  HTML/CSS javascript MariaDB PHP
-framework that i use : VueJS, symfony 
-here is my contact list: 
+Hi 👋 My name is Michel Zilpa
 
-email : zilpa.michel@gmail.com 
-twitter :  @bwikp
+=============================Web Developper--------------
+
+im learning web developpement at CCI a training organisation based in lyon, im eager to learn new thing and improve my current skill.
+
+* 🌍  I'm based in Lyon , France* 
+* ✉️  You can contact me at [zilpa.michel@gmail.com](mailto:zilpa.michel@gmail.com)* 
+* 🧠  I'm learning JavaScript PHP HTML/CSS MariaDB and VueJS/symfony
