@@ -10,7 +10,6 @@ im learning web developpement at CCI a training organisation based in lyon, im e
 * ✉️  You can contact me at:
               [zilpa.michel@gmail.com](mailto:zilpa.michel@gmail.com)*
               https://www.linkedin.com/in/michel-zilpa-b66a64235/
-              https://twitter.com/bwikp
               
 ###Skills
 
